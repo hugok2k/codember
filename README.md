@@ -1,7 +1,7 @@
 # Codember
 
 ### 
-[Challenge 01](https://github.com/hugok2k/codember/challenge01/solution.js)
+[Challenge 01](https://github.com/hugok2k/codember/blob/main/challenge01/solution.js)
 
 ### ¿Que es Codember?
 Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de midudev.
